@@ -9,6 +9,11 @@ namespace ConsoleTest
             Console.WriteLine("Hello World!");
             Console.WriteLine("hellO");
             Console.WriteLine("hellO");
+
+            Console.WriteLine("Hov");
+            Console.WriteLine("Hej");
+
+
         }
     }
 }
